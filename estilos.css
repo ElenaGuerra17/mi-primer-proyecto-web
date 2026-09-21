@@ -8,7 +8,7 @@ padding: 0;
 
 h1 {
 background-color: #020617;
-color: white;
+color: rgb(55, 177, 233);
 text-align: center;
 padding: 35px;
 margin: 0;
@@ -27,7 +27,7 @@ color: #cbd5e1;
 
 hr {
 border: 0;
-border-top: 2px solid #334155;
+border-top: 3px solid #aeb7c4;
 margin: 40px 50px;
 }
 
